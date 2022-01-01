@@ -1,4 +1,5 @@
 # MalariaDiagnosis_DeepLearning
+¡¡ The main file you need is efn0_malaria_binary.ipynb!! and take the data form the link below!
 Here you can find: 
 a explanatory slideshow (.ppt), 
 the paper (which is pending to be published), 
